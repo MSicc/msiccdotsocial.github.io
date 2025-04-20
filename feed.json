@@ -7,10 +7,91 @@
 	"items": [
 		
 			{
+				"id": "http://msicc.micro.blog/2025/04/20/froheostern-buonapasqua-happyeaster.html",
+				
+				"content_html": "<p>#FroheOstern\n#BuonaPasqua\n#HappyEaster</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": " #FroheOstern\n #BuonaPasqua\n #HappyEaster\n\n<img src=\"uploads/2025/image.png\" width=\"400\" height=\"600\" alt=\"\">\n",
+				"date_published": "2025-04-20T09:20:13+02:00",
+				"url": "https://msicc.social/2025/04/20/froheostern-buonapasqua-happyeaster.html",
+				"tags": ["Social"]
+			},
+			{
+				"id": "http://msicc.micro.blog/2025/04/18/just-completed-module-persistence-of.html",
+				
+				"content_html": "<p>💻 Just completed Module 3 (Persistence) of the iOS Lead Essentials program 🚀!</p>\n<p>Learned  about solid architecture, clean networking with URLSession &amp; Decodable, persistence with CoreData, FileManager &amp; more.</p>\n<p><a href=\"https://academy.essentialdeveloper.com/achievements/2a7f5f38-10bb-46dd-9274-6cfcae311daf\">academy.essentialdeveloper.com/achieveme&hellip;</a></p>\n<p>#iosdev #Swift #programming #learning</p>\n",
+				"content_text": "💻 Just completed Module 3 (Persistence) of the iOS Lead Essentials program 🚀! \r\n\r\nLearned  about solid architecture, clean networking with URLSession & Decodable, persistence with CoreData, FileManager & more.  \r\n\r\n[academy.essentialdeveloper.com/achieveme...](https://academy.essentialdeveloper.com/achievements/2a7f5f38-10bb-46dd-9274-6cfcae311daf)\r\n\r\n #iosdev #Swift #programming #learning\n",
+				"date_published": "2025-04-18T10:56:12+02:00",
+				"url": "https://msicc.social/2025/04/18/just-completed-module-persistence-of.html",
+				"tags": ["Swift/SwiftUI","iOS","macOS","Learning"]
+			},
+			{
+				"id": "http://msicc.micro.blog/2025/04/17/just-watched-the-final-episode.html",
+				
+				"content_html": "<p>📺 🍿 Just watched the final episode of the second season of #Severance. I am just shocked about that ending.</p>\n<p>#AppleTVPlus #ColdHarbor</p>\n",
+				"content_text": "📺 🍿 Just watched the final episode of the second season of #Severance. I am just shocked about that ending.\n\n #AppleTVPlus #ColdHarbor \n",
+				"date_published": "2025-04-17T12:17:43+02:00",
+				"url": "https://msicc.social/2025/04/17/just-watched-the-final-episode.html",
+				"tags": ["Social"]
+			},
+			{
+				"id": "http://msicc.micro.blog/2025/04/17/what-apples-critics-keep-getting.html",
+				
+				"content_html": "<p>What Apple’s critics keep getting wrong about the iPhone maker’s Tim Cook era</p>\n<p><a href=\"https://bgr.com/business/what-apples-critics-keep-getting-wrong-about-the-iphone-makers-tim-cook-era/\">bgr.com/business/&hellip;</a></p>\n",
+				"content_text": "What Apple’s critics keep getting wrong about the iPhone maker’s Tim Cook era\n\n[bgr.com/business/...](https://bgr.com/business/what-apples-critics-keep-getting-wrong-about-the-iphone-makers-tim-cook-era/)\n",
+				"date_published": "2025-04-17T04:43:39+02:00",
+				"url": "https://msicc.social/2025/04/17/what-apples-critics-keep-getting.html",
+				"tags": ["Interesting links"]
+			},
+			{
+				"id": "http://msicc.micro.blog/2025/04/16/rider-is-here-improved-solution.html",
+				
+				"content_html": "<p>#Rider 2025.1 Is Here: Improved Solution Explorer, New AI Assistant Features, Game Dev Updates, and More!</p>\n<p><a href=\"https://blog.jetbrains.com/dotnet/2025/04/16/rider-2025-1-release/\">blog.jetbrains.com/dotnet/20&hellip;</a></p>\n<p>#IDE #update #jetbrains #dotNET</p>\n",
+				"content_text": " #Rider 2025.1 Is Here: Improved Solution Explorer, New AI Assistant Features, Game Dev Updates, and More!\n\n[blog.jetbrains.com/dotnet/20...](https://blog.jetbrains.com/dotnet/2025/04/16/rider-2025-1-release/)\n\n #IDE #update #jetbrains #dotNET\n",
+				"date_published": "2025-04-16T21:05:22+02:00",
+				"url": "https://msicc.social/2025/04/16/rider-is-here-improved-solution.html",
+				"tags": ["C#/.NET"]
+			},
+			{
+				"id": "http://msicc.micro.blog/2025/04/16/im-not-quite-ready-to.html",
+				
+				"content_html": "<p>💻 I’m not quite ready to fully commit to #VibeCoding yet. What about you?</p>\n<p><a href=\"https://www.technologyreview.com/2025/04/16/1115135/what-is-vibe-coding-exactly/\">www.technologyreview.com/2025/04/1&hellip;</a></p>\n<p>#programming #AI</p>\n",
+				"content_text": "💻 I’m not quite ready to fully commit to #VibeCoding yet. What about you?\n\n[www.technologyreview.com/2025/04/1...](https://www.technologyreview.com/2025/04/16/1115135/what-is-vibe-coding-exactly/)\n\n #programming #AI \n",
+				"date_published": "2025-04-16T15:09:23+02:00",
+				"url": "https://msicc.social/2025/04/16/im-not-quite-ready-to.html",
+				"tags": ["Editorials","Social","Interesting links"]
+			},
+			{
+				"id": "http://msicc.micro.blog/2025/04/15/today-i-finally-went-out.html",
+				
+				"content_html": "<p>Today I finally went out for my first post surgery run.</p>\n<p>I was able to enjoy the sun that came out in the afternoon while focusing on keeping it a really easy run. I had no problems during the run, just enjoyed it.</p>\n<p><a href=\"https://strava.app.link/NlnkLDfLASb\">strava.app.link/NlnkLDfLA&hellip;</a></p>\n<p>#running #laufen #corsa 🏃‍♂️</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Today I finally went out for my first post surgery run.\n\nI was able to enjoy the sun that came out in the afternoon while focusing on keeping it a really easy run. I had no problems during the run, just enjoyed it.\n\n[strava.app.link/NlnkLDfLA...](https://strava.app.link/NlnkLDfLASb)\n\n #running #laufen #corsa 🏃‍♂️\n\n<img src=\"https://cdn.uploads.micro.blog/205940/2025/bdc91e3212.jpg\" width=\"337\" height=\"600\" alt=\"A person wearing a cap, sunglasses, and earbuds is giving a thumbs up during a run outdoors with distance, pace, and time metrics displayed.\">\n",
+				"date_published": "2025-04-15T19:12:38+02:00",
+				"url": "https://msicc.social/2025/04/15/today-i-finally-went-out.html",
+				"tags": ["Running"]
+			},
+			{
+				"id": "http://msicc.micro.blog/2025/04/15/apple-is-taking-privacy-seriously.html",
+				
+				"content_html": "<p>💻 Apple is taking #privacy seriously- also for training their #AI #languageModels.</p>\n<p>In this new blog post, the #ML team outlines how they plan to get synthetic training #data without compromising privacy</p>\n<p><a href=\"https://machinelearning.apple.com/research/differential-privacy-aggregate-trends\">machinelearning.apple.com/research/&hellip;</a></p>\n",
+				"content_text": "💻 Apple is taking #privacy seriously- also for training their #AI #languageModels.\n\nIn this new blog post, the #ML team outlines how they plan to get synthetic training #data without compromising privacy\n\n[machinelearning.apple.com/research/...](https://machinelearning.apple.com/research/differential-privacy-aggregate-trends)\n\n",
+				"date_published": "2025-04-15T05:20:16+02:00",
+				"url": "https://msicc.social/2025/04/15/apple-is-taking-privacy-seriously.html",
+				"tags": ["iOS","macOS","Interesting links"]
+			},
+			{
+				"id": "http://msicc.micro.blog/2025/04/13/instead-of-running-my-planned.html",
+				
+				"content_html": "<p>Instead of #running my planned #halfmarathon in Zurich, I need to be happy and grateful about being able to #walk a consistent &lt; 10 min/km pace after the gallbladder removal #surgery 10 days ago…</p>\n<p><a href=\"https://strava.app.link/TWd9a8VcxSb\">strava.app.link/TWd9a8Vcx&hellip;</a></p>\n<p>#laufen #corsa 🏃‍♂️</p>\n",
+				"content_text": "Instead of #running my planned #halfmarathon in Zurich, I need to be happy and grateful about being able to #walk a consistent < 10 min/km pace after the gallbladder removal #surgery 10 days ago…\n\n[strava.app.link/TWd9a8Vcx...](https://strava.app.link/TWd9a8VcxSb)\n\n #laufen #corsa 🏃‍♂️\n",
+				"date_published": "2025-04-13T15:48:59+02:00",
+				"url": "https://msicc.social/2025/04/13/instead-of-running-my-planned.html",
+				"tags": ["Running"]
+			},
+			{
 				"id": "http://msicc.micro.blog/2025/04/13/selfbaked-carottcake-with-frosting-made.html",
 				
-				"content_html": "<p>👨‍🍳🧑‍🍳👩‍🍳</p>\n<p>#SelfBaked #CarottCake with #frosting made from #Skyr and #CreamCheese</p>\n<p>#Selbstgebackener #Karottenkuchen mit Frosting aus #Skyr und #Frischkäse</p>\n<p>#TortaDiCarote #FattoInCasa con frosting a base di #Skyr e #FormaggioSpalmabile</p>\n<p>#Baking #yummy #ffoodporn #Backen #lecker #TroppoBuono</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "👨‍🍳🧑‍🍳👩‍🍳\n\n #SelfBaked #CarottCake with #frosting made from #Skyr and #CreamCheese\n  \n #Selbstgebackener #Karottenkuchen mit Frosting aus #Skyr und #Frischkäse\n\n #TortaDiCarote #FattoInCasa con frosting a base di #Skyr e #FormaggioSpalmabile\n\n #Baking #yummy #ffoodporn #Backen #lecker #TroppoBuono \n\n<img src=\"uploads/2025/56c0e8d043.jpg\" width=\"600\" height=\"450\" alt=\"A carrot cake is topped with frosting and decorated with small icing carrots.\"><img src=\"uploads/2025/1982ddb688.jpg\" width=\"600\" height=\"450\" alt=\"A slice of carrot cake topped with cream and a small carrot decoration sits on a green plate.\">\n",
+				"content_html": "<p>👨‍🍳🧑‍🍳👩‍🍳</p>\n<p>#SelfBaked #CarottCake with #frosting made from #Skyr and #CreamCheese</p>\n<p>#Selbstgebackener #Karottenkuchen mit Frosting aus #Skyr und #Frischkäse</p>\n<p>#TortaDiCarote #FattoInCasa con frosting a base di #Skyr e #FormaggioSpalmabile</p>\n<p>#Baking #yummy #foodporn #Backen #lecker #TroppoBuono</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "👨‍🍳🧑‍🍳👩‍🍳\n\n #SelfBaked #CarottCake with #frosting made from #Skyr and #CreamCheese\n  \n #Selbstgebackener #Karottenkuchen mit Frosting aus #Skyr und #Frischkäse\n\n #TortaDiCarote #FattoInCasa con frosting a base di #Skyr e #FormaggioSpalmabile\n\n #Baking #yummy #foodporn #Backen #lecker #TroppoBuono \n\n<img src=\"https://cdn.uploads.micro.blog/205940/2025/56c0e8d043.jpg\" width=\"600\" height=\"450\" alt=\"A carrot cake is topped with frosting and decorated with small icing carrots.\"><img src=\"https://cdn.uploads.micro.blog/205940/2025/1982ddb688.jpg\" width=\"600\" height=\"450\" alt=\"A slice of carrot cake topped with cream and a small carrot decoration sits on a green plate.\">\n",
 				"date_published": "2025-04-13T11:28:56+02:00",
 				"url": "https://msicc.social/2025/04/13/selfbaked-carottcake-with-frosting-made.html",
 				"tags": ["Social"]
@@ -46,7 +127,7 @@
 				"id": "http://msicc.micro.blog/2025/04/07/sun-is-shining-through-branches.html",
 				
 				"content_html": "<p>📷 #Sun is shining through #branches and newly grown #leaves on a #spring day.</p>\n<p>#MonoMonday #MonoMontag #Monolunedi\n#monochrome #Monochrom #grayscale #Graustufen #blackandwhite #Schwarzweiss  #iPhonePhotography #iPhone15ProMax</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📷 #Sun is shining through #branches and newly grown #leaves on a #spring day. \n\n #MonoMonday #MonoMontag #Monolunedi\n #monochrome #Monochrom #grayscale #Graustufen #blackandwhite #Schwarzweiss  #iPhonePhotography #iPhone15ProMax\n\n<img src=\"uploads/2025/acc5f33d17.jpg\" width=\"600\" height=\"450\" alt=\"Sunlight filters through the branches and leaves of trees in a forested area, creating a serene and natural scene. Applied the iPhone’s Mono filter to the photo.\">\n",
+				"content_text": "📷 #Sun is shining through #branches and newly grown #leaves on a #spring day. \n\n #MonoMonday #MonoMontag #Monolunedi\n #monochrome #Monochrom #grayscale #Graustufen #blackandwhite #Schwarzweiss  #iPhonePhotography #iPhone15ProMax\n\n<img src=\"https://cdn.uploads.micro.blog/205940/2025/acc5f33d17.jpg\" width=\"600\" height=\"450\" alt=\"Sunlight filters through the branches and leaves of trees in a forested area, creating a serene and natural scene. Applied the iPhone’s Mono filter to the photo.\">\n",
 				"date_published": "2025-04-07T18:30:33+02:00",
 				"url": "https://msicc.social/2025/04/07/sun-is-shining-through-branches.html",
 				"tags": ["Social"]
